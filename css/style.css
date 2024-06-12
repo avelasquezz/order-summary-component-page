@@ -30,6 +30,7 @@ body {
   background-size: contain;
   background-attachment: fixed;
   background-color: hsl(225, 100%, 94%);
+  font-family: 'Red Hat Display';
 }
 
 /* Main container */
@@ -43,7 +44,6 @@ section {
   border-radius: 15px;
   box-shadow: 0 25px 25px 0 hsla(0, 0%, 0%, 0.08);
   background-color: var(--white);
-  font-family: 'Red Hat Display';
 }
 
 /* Illustration */
